@@ -3,7 +3,6 @@
 
 ## Оглавление
 [1. Описание проекта](https://github.com/deniils/project-/tree/master/README.md#Описание-проекта)
-
 [2. Какой кейс решаем?](https://github.com/deniils/project-/blob/master/README.md#Какой-кейс-решаем)  
 [3. Краткая информация о данных](https://github.com/deniils/play/tree/main/README.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/deniils/play/tree/main/README.md#Этапы-работы-над-проектом)  
